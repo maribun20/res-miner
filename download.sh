@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/resminer_2.5.3/resminer-linux.tar.gz
